@@ -1,4 +1,4 @@
-![Cover Photo](Cover.gif)
+![MasterHead](Cover.gif)
 <head>
   <link rel="stylesheet" href="styles.css">
 </head>
