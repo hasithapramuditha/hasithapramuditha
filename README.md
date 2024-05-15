@@ -1,28 +1,13 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Hi 👋, I'm Hasitha Pramuditha</h1>
+---
 <h3 align="center">🌱 I'm passionate about machine learning, deep learning, and artificial intelligence, exploring their applications in various domains.</h3>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
 
 - 👨🏻‍💻 I’m currently learning **Machine Learning Frameworks: TensorFlow, Keras, Scikit-Learn**
 
 - 💬 Ask me about **ML,DL**
 
 - 📫 How to reach me **hasithapramuditha@gmail.com**
-
-</td>
-<td width="50%" align="center">
-
-
-  <img align="center" alt="Coding" width="450" src="Cover.gif">
-
-  
-  </td>
-</tr>
-</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,24 +44,10 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Resources/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="Resources/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
+ 
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hasithapramuditha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithapramuditha&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithapramuditha&show_icons=true&locale=en&layout=compact" alt="hasithapramuditha" /></p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hasithapramuditha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithapramuditha&show_icons=true&locale=en" alt="hasithapramuditha" /></p>
 
----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithapramuditha&" alt="hasithapramuditha" /></p>
