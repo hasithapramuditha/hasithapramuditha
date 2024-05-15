@@ -1,8 +1,14 @@
+![Cover Photo](Cover.gif)
+<head>
+  <title>Your Page Title</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 <h1 align="center">Hi 👋, I'm Hasitha Pramuditha</h1>
 <h3 align="center">🌱 I'm passionate about machine learning, deep learning, and artificial intelligence, exploring their applications in various domains.</h3>
 
 - 👨🏻‍💻 I’m currently learning **Machine Learning Frameworks: TensorFlow, Keras, Scikit-Learn**
-
+e
 - 💬 Ask me about **ML,DL**
 
 - 📫 How to reach me **hasithapramuditha@gmail.com**
