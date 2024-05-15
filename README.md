@@ -1,4 +1,4 @@
-![MasterHead](Cover.gif)
+[![MasterHead](Cover.gif)]
 
 <h1 align="center">Hi 👋, I'm Hasitha Pramuditha</h1>
 <h3 align="center">🌱 I'm passionate about machine learning, deep learning, and artificial intelligence, exploring their applications in various domains.</h3>
