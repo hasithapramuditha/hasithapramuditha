@@ -1,7 +1,4 @@
 ![MasterHead](Cover.gif)
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
 
 <h1 align="center">Hi 👋, I'm Hasitha Pramuditha</h1>
 <h3 align="center">🌱 I'm passionate about machine learning, deep learning, and artificial intelligence, exploring their applications in various domains.</h3>
