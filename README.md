@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/in/hasitha-pramuditha-335b65279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hasitha-pramuditha-335b65279" height="30" width="40" /></a>
 <a href="https://instagram.com/hasi.pramu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasi.pramu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hasithapramuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasithapramuditha" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pramuditharmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@PramudithaRMH" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/PramudithaRMH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@PramudithaRMH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
