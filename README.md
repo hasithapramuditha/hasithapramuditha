@@ -63,7 +63,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="Resources/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">My Statistics:</h3>
+<!-- <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -79,7 +79,7 @@
   
   </td>
 </tr>
-</table>
+</table> -->
 
 
 
