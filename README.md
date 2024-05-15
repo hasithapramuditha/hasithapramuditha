@@ -1,6 +1,5 @@
 ![Cover Photo](Cover.gif)
 <head>
-  <title>Your Page Title</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 
